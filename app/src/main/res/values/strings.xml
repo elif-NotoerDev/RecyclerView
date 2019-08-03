@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaymentCardExample</string>
+    <color name="orange">#f96d15</color>
+</resources>
